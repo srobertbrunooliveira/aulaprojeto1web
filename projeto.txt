@@ -19,7 +19,7 @@ criar Login e senha para alunos pais e docentes
 atualizar a biblioteca virtual 
 atualizar o Quem somos e o trabalhe conosco 
 criar o chat ao vivo para duvidas
-
+usar  HTML  CSS  Angular  SQL  JAVA  JAVASCRIPT 
 topico 3 publico alvo
 Famílias de classe media Alta 
 
